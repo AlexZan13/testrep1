@@ -1,3 +1,3 @@
-public class Main {
+private class Str {
 	String str = "test";
 }
