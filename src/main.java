@@ -1,3 +1,3 @@
-private class Str {
+public class Str {
 	String str = "test";
-}
+
